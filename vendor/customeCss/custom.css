@@ -23,16 +23,16 @@ body {
 }
 
 .hr{
-  border-top: 1px solid #343444 !important;
+	border-top:	1px solid #343444 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--heading-color);
+	color: var(--heading-color);
 }
 
 /*slider switch css */
 
- .text-muted {
+.text-muted {
     color: #909090!important;
 }
 
@@ -95,6 +95,7 @@ input:checked + .slider:before {
 }
 
 .addclass{
+	/* background-color: #2B2B3E !important; */
 	background-color: #343444 !important;
 	transition: 0.9s ease;
 }
