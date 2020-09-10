@@ -2,6 +2,6 @@
 
 This Resume is created on Bootstrap, CSS, Javascript and JQuery.
 
-# Add Dark & Light Theme
+# Added Dark & Light Theme
 
 Now you can change themes as per your choice click on setting button on right side of the screen.
